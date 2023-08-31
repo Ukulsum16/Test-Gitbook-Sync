@@ -2,9 +2,9 @@
 
 ## Endpoints
 
-* [backupsets](README.md)
-  * [backupsets\_list](endpoints/backupsets/backupsets\_list.md)
-  * [backupsets\_create](endpoints/backupsets/backupsets\_create.md)
+* [backup1sets](README.md)
+  * [backupsets\_list](endpoints/readme/backupsets\_list.md)
+  * [backupsets\_create](endpoints/readme/backupsets\_create.md)
 
 ***
 
