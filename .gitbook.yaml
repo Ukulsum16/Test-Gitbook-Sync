@@ -5,4 +5,4 @@ root: ./
     summary: SUMMARY.md​
 
 redirects:  
-    help: vertopal.com_demo.md
+    999: vertopal.com_demo.md
